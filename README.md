@@ -16,10 +16,10 @@ Here are some of the technologies and tools I work with, as well as my achieveme
 - **Tools**: Git, MS Excel, Google Sheets, Tableau, Pycharm, Google Colab
 - **Others**: Cloud Computing (AWS,Azure), Machine Learning, IoT
 - **Achievements**:
- - Accenture : Data Analytics and Visualization Job Simulation on Forage
- - TATA Groups : Data Visualisation: Empowering Business
+  - Accenture : Data Analytics and Visualization Job Simulation on Forage
+  - TATA Groups : Data Visualisation: Empowering Business
 with Effective Insights on Forage 
- - Earned Introduction to Generative AI Badges by Google Cloud
+  - Earned Introduction to Generative AI Badges by Google Cloud
  
  ## Projects
 
