@@ -24,13 +24,13 @@ with Effective Insights on Forage
  ## Projects
 
 I have had the opportunity to work on various projects as part of tasks assigned by CodSoft and NSDIC. These experiences enabled me to enhance my data analysis skills by tackling real-world problems and gaining practical insights into the field.
-CodSoft - Data Science: 
- - Titanic Survival Prediction
- - Iris Flower Classification
- - Movie Rating Prediction 
-NSDIC - Data Analyst:
- - Store Data Analysis Dashboard
- - HR Data Analysis Dashboard
+- CodSoft - Data Science: 
+  - Titanic Survival Prediction
+  - Iris Flower Classification
+  - Movie Rating Prediction 
+- NSDIC - Data Analyst:
+  - Store Data Analysis Dashboard
+  - HR Data Analysis Dashboard
 
 ## Get in Touch
 
