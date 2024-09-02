@@ -12,10 +12,10 @@ As a final-year student, I have developed strong analytical and problem-solving 
 
 Here are some of the technologies and tools I work with, as well as my achievements:
 
-**Languages**: C, C++ (basic), Java, Python, R, SQL
-**Tools**: Git, MS Excel, Google Sheets, Tableau, Pycharm, Google Colab
-**Others**: Cloud Computing (AWS,Azure), Machine Learning, IoT
-**Achievements**: 
+- **Languages**: C, C++ (basic), Java, Python, R, SQL
+- **Tools**: Git, MS Excel, Google Sheets, Tableau, Pycharm, Google Colab
+- **Others**: Cloud Computing (AWS,Azure), Machine Learning, IoT
+- **Achievements**: 
  - Accenture - Data Analytics and Visualization Job Simulation on Forage
  - TATA Groups - Data Visualisation: Empowering Business
 with Effective Insights on Forage 
