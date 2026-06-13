@@ -36,5 +36,5 @@ that support better decision-making.
 
 ## 📫 Connect with me
 
-* LinkedIn: https://linkedin.com/in/dharani1410
+* LinkedIn: https://linkedin.com/in/dharani1014/
 * Portfolio: https://dharaneyogees.github.io/portfolio/
