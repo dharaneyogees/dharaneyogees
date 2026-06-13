@@ -8,7 +8,9 @@ I'm passionate about turning data into insights and building practical analytics
 I enjoy working with real-world datasets, exploring patterns, and creating dashboards
 that support better decision-making.
 
-**💻 What I work with**
+---
+
+## 💻 What I work with
 
 * Python (pandas, numpy, scikit-learn)
 * SQL & ETL Pipelines
