@@ -1,13 +1,14 @@
-*Hi, I'm Dharani!*
+#*Hi, I'm Dharani!*
 
 🎀 B.Tech in Information Technology @ KLN College of Engineering 
+
 📍 Tamil Nadu, India
 
 I'm passionate about turning data into insights and building practical analytics solutions.
 I enjoy working with real-world datasets, exploring patterns, and creating dashboards
 that support better decision-making.
 
-💻 What I work with
+**💻 What I work with**
 
 * Python (pandas, numpy, scikit-learn)
 * SQL & ETL Pipelines
