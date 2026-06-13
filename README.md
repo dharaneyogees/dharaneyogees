@@ -1,4 +1,4 @@
-Hi, I'm Dharani!
+**Hi, I'm Dharani!**
 🎀 B.Tech in Information Technology @ KLN College of Engineering 
 📍 Tamil Nadu, India
 
