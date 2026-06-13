@@ -35,4 +35,4 @@ that support better decision-making.
 📫 Connect with me
 
 * LinkedIn: https://linkedin.com/in/dharani1410
-* GitHub: https://github.com/dharaneyogees
+* Portfolio: https://dharaneyogees.github.io/portfolio/
