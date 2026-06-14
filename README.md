@@ -1,6 +1,6 @@
 # Hi, I'm Dharani!
 
-🎀 B.Tech(Honours) in Information Technology @ KLN College of Engineering 
+🎀 B.Tech (Honours) in Information Technology @ KLN College of Engineering 
 
 📍 Tamil Nadu, India
 
